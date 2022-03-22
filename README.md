@@ -1,2 +1,2 @@
 # StockQuoteAPI
-Simple tool using alphavantage finance API
+Simple Java Tool Using AlphaVantage Finance API
